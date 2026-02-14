@@ -23,9 +23,15 @@
           <a href="https://github.com/Ayoub-glitsh">Ayoub-glitsh</a>
         </td>
       </tr>
-      
-
-      
+      <tr>
+        <td align="center">
+          <img src="https://github.com/Ki-sra.png" width="50" alt="Ayoub avatar" />
+        </td>
+        <td>Ki-sra</td>
+        <td>
+          <a href="https://github.com/Ki-sra">Ki-sra</a>
+        </td>
+      </tr>
 
   </tbody>
   </table>
