@@ -16,11 +16,11 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://github.com/ayoubaguezar.png" width="50" alt="Ayoub avatar" />
+          <img src="https://github.com/Ayoub-glitsh.png" width="50" alt="Ayoub avatar" />
         </td>
         <td>Ayoub Aguezar</td>
         <td>
-          <a href="https://github.com/ayoubaguezar">@ayoubaguezar</a>
+          <a href="https://github.com/Ayoub-glitsh">Ayoub-glitsh</a>
         </td>
       </tr>
 
