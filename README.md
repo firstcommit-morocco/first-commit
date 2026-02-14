@@ -78,14 +78,31 @@ Example:
 4️⃣ Open the file `CONTRIBUTION.md`
 -----------------------------------
 
-Add your name at the bottom of the contributors list using this format:
+Scroll to the bottom of the contributors table.
+Add a new row inside the ```<tbody>``` section using this format:
 
-    - ✨ Your Name | Your School | Your Field of Study
+    <tr>
+      <td align="center">
+        <img src="https://github.com/YOUR-USERNAME.png" width="50" alt="Your avatar" />
+      </td>
+      <td>Your Full Name</td>
+      <td>
+        <a href="https://github.com/YOUR-USERNAME">@YOUR-USERNAME</a>
+      </td>
+    </tr>
     
 
 Example:
 
-    - ✨ Ayoub Aguezar | ISTA | Web Development
+    <tr>
+      <td align="center">
+        <img src="https://github.com/ayoubaguezar.png" width="50" alt="Ayoub avatar" />
+      </td>
+      <td>Ayoub Aguezar</td>
+      <td>
+        <a href="https://github.com/ayoubaguezar">@ayoubaguezar</a>
+      </td>
+    </tr>
     
 
 ⚠️ Do NOT delete or modify other names.
