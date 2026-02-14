@@ -25,9 +25,9 @@
       </tr>
       <tr>
         <td align="center">
-          <img src="https://github.com/Ki-sra.png" width="50" alt="Ayoub avatar" />
+          <img src="https://github.com/Ki-sra.png" width="50" alt="Ki-sra avatar" />
         </td>
-        <td>Ki-sra</td>
+        <td>Hamza Kousra</td>
         <td>
           <a href="https://github.com/Ki-sra">Ki-sra</a>
         </td>
