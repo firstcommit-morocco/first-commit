@@ -16,11 +16,12 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://github.com/Ayoub-glitsh.png" width="50" alt="Ayoub avatar" />
+          <img src="<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/899bf7f8-2097-403b-8b2e-ccc3c2acbb07" />
+" width="50" alt="Ayoub avatar" />
         </td>
-        <td>Ayoub Aguezar</td>
+        <td>marwa saber</td>
         <td>
-          <a href="https://github.com/Ayoub-glitsh">Ayoub-glitsh</a>
+          <a href="https://github.com/mqkjdsiii">Ayoub-glitsh</a>
         </td>
       </tr>
       
