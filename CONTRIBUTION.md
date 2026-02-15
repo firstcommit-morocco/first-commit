@@ -32,6 +32,15 @@
           <a href="https://github.com/Ki-sra">Ki-sra</a>
         </td>
       </tr>
+      <tr>
+  <td align="center">
+    <img src="https://github.com/aitmoussamohamed964-hash.png" width="50" alt="My avatar" />
+  </td>
+  <td> Mohamed Ait Moussa </td>
+  <td>
+    <a href="https://github.com/aitmoussamohamed964-hash">@aitmoussamohamed964-hash</a>
+  </td>
+</tr>
 
   </tbody>
   </table>
