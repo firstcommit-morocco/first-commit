@@ -16,14 +16,12 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://github.com/user-attachments/assets/899bf7f8-2097-403b-8b2e-ccc3c2acbb07"  height="420" alt="uranus"  />
+          <img src="https://github.com/Ayoub-glitsh.png" width="50" alt="Ayoub avatar" />
         </td>
-            </td>
-    <td>marwa saber</td>
-    <td>
-      <a href="https://github.com/mqkjdsiii">uranus </a>
-    </td>
-  </tr>
+        <td>Ayoub Aguezar</td>
+        <td>
+          <a href="https://github.com/Ayoub-glitsh">Ayoub-glitsh</a>
+        </td>
       </tr>
       <tr>
         <td align="center">
@@ -32,6 +30,15 @@
         <td>Hamza Kousra</td>
         <td>
           <a href="https://github.com/Ki-sra">Ki-sra</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://github.com/mqkjdsiii.png" width="50" alt="marwa saber avatar" />
+        </td>
+        <td>marwa saber</td>
+        <td>
+          <a href="https://github.com/mqkjdsiii">uranus</a>
         </td>
       </tr>
 
