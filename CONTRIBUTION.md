@@ -33,6 +33,15 @@
         </td>
       </tr>
       <tr>
+         <tr>
+        <td align="center">
+          <img src="https://github.com/elmaatouquii.png" width="50" alt="elmaatouqui avatar" />
+        </td>
+        <td>Elmaatouqui Mohamed</td>
+        <td>
+          <a href="https://github.com/elmaatouquii">Ki-sra</a>
+        </td>
+      </tr>
         <td align="center">
           <img src="https://github.com/mqkjdsiii.png" width="50" alt="marwa saber avatar" />
         </td>
