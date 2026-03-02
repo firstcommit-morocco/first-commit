@@ -39,7 +39,7 @@
         </td>
         <td>Elmaatouqui Mohamed</td>
         <td>
-          <a href="https://github.com/elmaatouquii">Ki-sra</a>
+          <a href="https://github.com/elmaatouquii">Elmaatouqui Mohamed</a>
         </td>
       </tr>
         <td align="center">
